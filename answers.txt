@@ -1,0 +1,8 @@
+What is a remote repository?
+
+A remote repository is a git repository that is not on your system but stored somewhere else 
+and accessible from that platform, a great example of that is storing remote repositories in github. 
+Other team members may be able to access that remote repository and add to it and it functions similarly 
+to a normal local repo except that it can be pushed to and pulled from and you can copy the repository 
+onto your desktop as a local repo using clone. Essentially allows for collaberation.
+
